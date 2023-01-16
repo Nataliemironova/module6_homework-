@@ -18,4 +18,4 @@ function EvenOrOdd(arr) {
 EvenOrOdd(arr);
 console.log('Количество четных чисел:'+ evenArr.length);
 console.log('Количество нечетных чисел:' + oddArr.length);
-console.log('Количество нулевых чисел:' + otherArr.leng);
+console.log('Количество нулевых чисел:' + otherArr.length);
